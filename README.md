@@ -79,7 +79,7 @@ pip install -r requirements.txt
 Execute the complete workflow with:
 
 ```bash
-python main.py
+python negi_framework.py
 ```
 
 The script performs:
