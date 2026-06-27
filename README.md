@@ -1,4 +1,4 @@
-# Evaluating Urban Greening Energy Trade-Offs Using the Net Energy Gain Index (NEGI)
+# NEGI Framework
 
 This repository contains the Python implementation accompanying the manuscript:
 
