@@ -1,13 +1,17 @@
 cff-version: 1.2.0
+
 title: "Evaluating Urban Greening Energy Trade-Offs Using the Net Energy Gain Index (NEGI)"
+
 message: "If you use this repository, please cite the accompanying publication."
+
 type: software
 
-author:
+authors:
   - family-names: Almaktoum
     given-names: Nelly F.
+    orcid: "https://orcid.org/0009-0007-9887-0280"
 
-repository-code: https://github.com/nellymkt/NEGI-Framework
+repository-code: "https://github.com/nellymkt/NEGI-Framework"
 
 license: MIT
 
